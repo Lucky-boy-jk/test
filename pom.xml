@@ -9,7 +9,13 @@
     <version>jiakai</version>
 
     <dependencyManagement>
-<dependencies></dependencies>
+<dependencies>
+    <dependency>
+        <groupId>org.mybatis</groupId>
+        <artifactId>mybatis</artifactId>
+        <version>3.2.8</version>
+    </dependency>
+</dependencies>
 
     </dependencyManagement>
 </project>

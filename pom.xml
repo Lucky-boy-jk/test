@@ -7,5 +7,10 @@
     <groupId>com.boya.jk</groupId>
     <artifactId>de:mo_jk</artifactId>
     <version>jiakai</version>
+
+    <dependencyManagement>
+<dependencies></dependencies>
+
+    </dependencyManagement>
 </project>
 
